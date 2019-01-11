@@ -1,4 +1,4 @@
-s = 'dhfgg'
-a = 'abcd'
-print s.find(a)
-print filter(str.isalnum,s)
+strs =[[],[]]
+print len(strs)
+if strs:
+    print True
